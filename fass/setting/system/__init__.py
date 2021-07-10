@@ -1,7 +1,7 @@
 ##########################
 # 作者：gfdgd xi
 ##########################
-from fass import information
+from fass.information import *
 import platform
 import subprocess
 
